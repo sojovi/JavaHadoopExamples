@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.kafka;
+package org.hadoop.examples.kafka;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;

@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.spark;
+package org.hadoop.examples.spark;
 
 import java.util.Arrays;
 

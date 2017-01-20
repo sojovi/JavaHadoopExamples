@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.hbase;
+package org.hadoop.examples.hbase;
 
 import java.io.IOException;
 

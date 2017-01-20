@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.hdfs;
+package org.hadoop.examples.hdfs;
 
 import java.io.IOException;
 

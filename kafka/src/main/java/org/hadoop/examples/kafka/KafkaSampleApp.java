@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.kafka;
+package org.hadoop.examples.kafka;
 
 public class KafkaSampleApp {
 

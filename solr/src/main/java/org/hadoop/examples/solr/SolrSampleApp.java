@@ -1,4 +1,4 @@
-package xyz.reactodata.examples.solr;
+package org.hadoop.examples.solr;
 
 import java.io.IOException;
 import java.util.ArrayList;
