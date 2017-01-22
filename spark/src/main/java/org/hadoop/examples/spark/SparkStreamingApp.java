@@ -9,6 +9,14 @@ import org.apache.spark.streaming.api.java.*;
 
 import scala.Tuple2;
 
+/**
+ * 
+ * 1. Start the netcat in console with command "nc -lk 9999"
+ * 2. Start the Spark Streaming app
+ * 3. Put some words in the console from step 1
+ * 4. Read the output of spark
+ */
+
 public class SparkStreamingApp {
 
 	@SuppressWarnings({ "resource", "serial" })
@@ -47,7 +55,5 @@ public class SparkStreamingApp {
 		
 		jssc.start();              // Start the computation
 		jssc.awaitTermination();   // Wait for the computation to terminate
-
-
 	}
 }
