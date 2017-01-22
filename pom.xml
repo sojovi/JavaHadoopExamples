@@ -45,6 +45,7 @@
 		<module>kafka</module>
 		<module>spark</module>
 		<module>solr</module>
+		<module>impala</module>
 	</modules>
 
 	<groupId>org.hadoop</groupId>
